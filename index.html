@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NullBase — Null's Clash Layouts</title>
+  <meta name="description" content="Browse and copy Null's Clash base layouts.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">N</div>
+      <div>
+        <strong>NullBase</strong>
+        <span>Null's Clash layouts</span>
+      </div>
+    </div>
+    <button class="ghost" id="favoritesBtn">♥ Favorites <span id="favCount">0</span></button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">COMMUNITY LAYOUT HUB</p>
+        <h1>Find a base.<br><span>Copy it to Null's Clash.</span></h1>
+        <p class="sub">Browse layouts by Town Hall and type, preview the base, then open its Null's Clash share link.</p>
+      </div>
+      <div class="hero-badge">NULL'S<br>CLASH</div>
+    </section>
+
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search layouts, tags, or names…">
+      <select id="level">
+        <option value="all">All levels</option>
+        <option value="18">TH18</option>
+        <option value="17">TH17</option>
+      </select>
+      <select id="type">
+        <option value="all">All types</option>
+        <option value="war">War</option>
+        <option value="home">Home Village</option>
+      </select>
+    </section>
+
+    <section class="section-head">
+      <div>
+        <p class="eyebrow">LAYOUTS</p>
+        <h2 id="resultTitle">Latest layouts</h2>
+      </div>
+      <span id="resultCount"></span>
+    </section>
+
+    <section class="grid" id="grid"></section>
+    <p class="empty" id="empty">No layouts match your filters.</p>
+  </main>
+
+  <footer>
+    <span>NullBase is an independent community project.</span>
+    <span>Null's Clash must be installed for game links to open.</span>
+  </footer>
+
+  <div class="modal hidden" id="modal">
+    <div class="modal-card">
+      <button class="close" id="close">×</button>
+      <div class="preview" id="modalPreview"></div>
+      <div class="modal-content">
+        <div class="pill-row" id="modalPills"></div>
+        <h2 id="modalTitle"></h2>
+        <p id="modalDescription"></p>
+        <div class="actions">
+          <button class="primary" id="openGame">OPEN IN NULL'S CLASH</button>
+          <button class="secondary" id="copyLink">COPY LINK</button>
+        </div>
+        <p class="note">The Open button uses the Null's Clash share link supplied for this layout. If the game is not installed, your device may keep the link in the browser.</p>
+      </div>
+    </div>
+  </div>
+
+<script src="app.js"></script>
+</body>
+</html>

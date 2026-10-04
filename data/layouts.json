@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "TH18 War Core",
+    "level": "18",
+    "type": "war",
+    "tags": [
+      "anti-3-star",
+      "war"
+    ],
+    "description": "Compact war layout focused on protecting the core and spreading key defenses.",
+    "image": "assets/layouts/placeholder.svg",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH18%3AWB%3AXEmUU027pzckuO4JpITGlJUjcBs%3D"
+  },
+  {
+    "id": 2,
+    "name": "TH17 War Ring",
+    "level": "17",
+    "type": "war",
+    "tags": [
+      "war",
+      "ring"
+    ],
+    "description": "A ring-style war layout with separated defensive compartments.",
+    "image": "assets/layouts/placeholder.svg",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH17%3AHV%3AVnz-KH65LEzLF8AgFO7wvzGid5I%3D"
+  },
+  {
+    "id": 3,
+    "name": "TH18 Home Village",
+    "level": "18",
+    "type": "home",
+    "tags": [
+      "home",
+      "defense"
+    ],
+    "description": "Home-village layout example for testing the catalogue and copy flow.",
+    "image": "assets/layouts/placeholder.svg",
+    "link": "https://clash.link.nulls.gg/"
+  },
+  {
+    "id": 4,
+    "name": "TH17 Anti-2 Star",
+    "level": "17",
+    "type": "war",
+    "tags": [
+      "anti-2-star",
+      "war"
+    ],
+    "description": "A second TH17 example card for testing filters and layout details.",
+    "image": "assets/layouts/placeholder.svg",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH17%3AHV%3AVnz-KH65LEzLF8AgFO7wvzGid5I%3D"
+  }
+]
