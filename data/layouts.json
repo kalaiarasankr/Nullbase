@@ -50,5 +50,159 @@
     "description": "A second TH17 example card for testing filters and layout details.",
     "image": "assets/layouts/placeholder.svg",
     "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH17%3AHV%3AVnz-KH65LEzLF8AgFO7wvzGid5I%3D"
+  },
+  {
+    "id": 5,
+    "name": "TH10 Home Village — Test",
+    "level": "10",
+    "type": "home",
+    "tags": [
+      "home",
+      "th10",
+      "test"
+    ],
+    "description": "Experimental TH10 layout link. Please verify compatibility with Null's Clash.",
+    "image": "assets/layouts/th10-home.jpg",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH10%3AHV%3AAAAAXAAAAAGSkDep8ovwwbynAKhL8H3d"
+  },
+  {
+    "id": 6,
+    "name": "TH10 Trophy — Anti-2-Star",
+    "level": "10",
+    "type": "trophy",
+    "tags": [
+      "trophy",
+      "anti-2-star",
+      "defense"
+    ],
+    "description": "Community-sourced TH10 trophy layout. Link tested in Null's Clash.",
+    "image": "assets/layouts/placeholder.svg",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH10%3AHV%3AAAAASAAAAAGU-XpYWdMq5YgmQAIH1cGh"
+  },
+  {
+    "id": 7,
+    "name": "TH10 Farming — Storage Defense",
+    "level": "10",
+    "type": "farming",
+    "tags": [
+      "farming",
+      "resources",
+      "storage"
+    ],
+    "description": "Community-sourced TH10 farming layout. Link tested in Null's Clash.",
+    "image": "assets/layouts/placeholder.svg",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH10%3AWB%3AAAAAFgAAAAHTjd7Se7ApYSlvn6p1y_QD"
+  },
+  {
+    "id": 8,
+    "name": "TH10 Hybrid — Anti-3-Star",
+    "level": "10",
+    "type": "hybrid",
+    "tags": [
+      "hybrid",
+      "anti-3-star",
+      "defense"
+    ],
+    "description": "Community-sourced TH10 hybrid layout. Link tested in Null's Clash.",
+    "image": "assets/layouts/th10-hybrid-anti-3-star.webp",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH10%3AHV%3AAAAAHQAAAAJsLMD-8Wwj1DwKsCCN-s9H"
+  },
+  {
+    "id": 9,
+    "name": "TH10 Hybrid — Farm & Push",
+    "level": "10",
+    "type": "hybrid",
+    "tags": [
+      "hybrid",
+      "farming",
+      "trophy"
+    ],
+    "description": "Community-sourced TH10 farm-and-push layout. Link tested in Null's Clash.",
+    "image": "assets/layouts/th10-hybrid-farm-push.webp",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH10%3AHV%3AAAAAHQAAAAJsLJakgdeJjgotbvyW039X"
+  },
+  {
+    "id": 10,
+    "name": "TH10 Hybrid — Defensive Base",
+    "level": "10",
+    "type": "hybrid",
+    "tags": [
+      "hybrid",
+      "anti-3-star",
+      "defense"
+    ],
+    "description": "Community-sourced TH10 defensive hybrid. Link tested in Null's Clash.",
+    "image": "assets/layouts/th10-hybrid-defensive.webp",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH10%3AHV%3AAAAAHQAAAAJsLJx2E-51BMgjXv5HBZWk"
+  },
+  {
+    "id": 11,
+    "name": "TH11 Hybrid — Anti-3-Star #4",
+    "level": "11",
+    "type": "hybrid",
+    "tags": [
+      "hybrid",
+      "anti-3-star",
+      "defense"
+    ],
+    "description": "TH11 hybrid defensive base. Link tested in Null's Clash.",
+    "image": "assets/layouts/th11-hybrid-anti-3-star.webp",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH11%3AHV%3AAAAALwAAAAJJlqI93TTz4TWPUTMoqXV-"
+  },
+  {
+    "id": 12,
+    "name": "TH11 Hybrid — Ranked & Loot #5",
+    "level": "11",
+    "type": "hybrid",
+    "tags": [
+      "hybrid",
+      "farming",
+      "trophy"
+    ],
+    "description": "TH11 hybrid base for loot protection and trophy pushing. Link tested in Null's Clash.",
+    "image": "assets/layouts/th11-hybrid-ranked-loot.webp",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH11%3AHV%3AAAAALwAAAAJJlqcXTLgvsFCPgCuck4Fu"
+  },
+  {
+    "id": 13,
+    "name": "TH11 Hybrid — Trophy & Loot #7",
+    "level": "11",
+    "type": "hybrid",
+    "tags": [
+      "hybrid",
+      "trophy",
+      "loot"
+    ],
+    "description": "TH11 hybrid base for trophy pushing and loot protection.",
+    "image": "assets/layouts/th11-hybrid-trophy-loot.webp",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH11%3AHV%3AAAAALwAAAAJJlrD0lv60EmR_TUYrvxgb"
+  },
+  {
+    "id": 14,
+    "name": "TH11 Hybrid — Farm & Push #8",
+    "level": "11",
+    "type": "hybrid",
+    "tags": [
+      "hybrid",
+      "farming",
+      "trophy"
+    ],
+    "description": "TH11 hybrid base for farming and trophy progression.",
+    "image": "assets/layouts/th11-hybrid-farm-push.webp",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH11%3AHV%3AAAAALwAAAAJJlry6vmkQ9QBeDSqpTQPZ"
+  },
+  {
+    "id": 15,
+    "name": "TH11 War — Anti-3-Star",
+    "level": 11,
+    "type": "War",
+    "tags": [
+      "War",
+      "Anti-3-Star",
+      "TH11"
+    ],
+    "description": "TH11 war base designed for defensive protection.",
+    "image": "assets/layouts/th11-war-base.webp",
+    "link": "https://link.nulls.gg/nulls-clash/en?action=OpenLayout&id=TH11%3AWB%3AAAAAMAAAAAG-mxqmM2-t53AXTso70_1D"
   }
 ]
